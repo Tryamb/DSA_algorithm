@@ -1,2 +1,4 @@
 # HacktoberFest
-sample repo for hacktoberfest
+Algorithm
+◉ Seraching
+◉ Sorting
